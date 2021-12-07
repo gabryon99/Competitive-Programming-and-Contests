@@ -1,8 +1,24 @@
 ## Competitive Programming and Contests
-Repository for Competitive Programming course at UniPi MSc degree (a.a. 2021/2022).
 
-The source code is written using `ISO C++ 2020 DIS` standard. To compile a simple exercise just type:
+This repository contains implementations of the exercises seen at "*Competitive Programming and Contests*" course lessons (a.y. 2021/2022).
+The code uses the C++20 language. To load the project you can use `CLion`.
 
-```bash
-clang++ -Wall --pedantic -std=c++20 /path/to/file.cpp
-```
+### Exercises
+
+Each exercise is grouped inside its category.
+
+<details>
+    <summary>Dynamic Programming</summary>
+    <ul>
+        <li>
+            <a href="./src/dynamic_programming/knapsack01.hpp">Knapsack 0/1</a>
+        </li>
+        <li>
+            <a href="./src/dynamic_programming/subset_sum_problem.hpp">Subset Sum Problem</a>
+        </li>
+    </ul>
+</details>
+<details>
+    <summary>Greedy Algorithms</summary>
+    <p>Nothing, so far... 🙂</p>
+</details>
