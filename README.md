@@ -8,7 +8,7 @@ The code uses the C++20 language. To load the project you can use `CLion`.
 Each exercise is grouped inside its category.
 
 <details>
-    <summary>Dynamic Programming</summary>
+    <summary><b>Dynamic Programming</b></summary>
     <ul>
         <li>
             <a href="./src/dynamic_programming/knapsack01.hpp">Knapsack 0/1</a>
@@ -19,6 +19,6 @@ Each exercise is grouped inside its category.
     </ul>
 </details>
 <details>
-    <summary>Greedy Algorithms</summary>
+    <summary><b>Greedy Algorithms</b></summary>
     <p>Nothing, so far... 🙂</p>
 </details>
