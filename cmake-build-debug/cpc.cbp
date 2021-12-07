@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/gabryon/Projects/Repositories/Competitive-Programming-and-Contests/src/dynamic_programming/integer_replacement.hpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/gabryon/Projects/Repositories/Competitive-Programming-and-Contests/src/dynamic_programming/knapsack01.hpp">
 			<Option target="cpc"/>
 		</Unit>

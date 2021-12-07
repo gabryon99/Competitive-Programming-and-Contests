@@ -19,6 +19,9 @@ Each exercise is grouped inside its category.
         <li>
             <a href="./src/dynamic_programming/subset_sum_problem.hpp">Subset Sum Problem</a>
         </li>
+        <li>
+            <a href="./src/dynamic_programming/integer_replacement.hpp">Integer Replacement</a>
+        </li>
     </ul>
 </details>
 <details>
