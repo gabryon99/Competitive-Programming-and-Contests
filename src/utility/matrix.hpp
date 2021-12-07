@@ -15,6 +15,8 @@ namespace cpc::utility {
         std::size_t rows;
         std::size_t columns;
 
+        explicit Matrix() {}
+
         Matrix(std::size_t r, std::size_t c) noexcept : rows{r}, columns{c} {
             data.resize(r * c);
         }

@@ -83,6 +83,9 @@
 		<Unit filename="/Users/gabryon/Projects/Repositories/Competitive-Programming-and-Contests/src/dynamic_programming/knapsack01.hpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/gabryon/Projects/Repositories/Competitive-Programming-and-Contests/src/dynamic_programming/minimum_cost_path.hpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/gabryon/Projects/Repositories/Competitive-Programming-and-Contests/src/dynamic_programming/subset_sum_problem.hpp">
 			<Option target="cpc"/>
 		</Unit>

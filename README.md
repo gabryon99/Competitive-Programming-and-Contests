@@ -11,6 +11,9 @@ Each exercise is grouped inside its category.
     <summary><b>Dynamic Programming</b></summary>
     <ul>
         <li>
+            <a href="./src/dynamic_programming/minimum_cost_path.hpp">Minimum Cost Path</a>
+        </li>
+        <li>
             <a href="./src/dynamic_programming/knapsack01.hpp">Knapsack 0/1</a>
         </li>
         <li>
