@@ -5,8 +5,7 @@ The code uses the C++20 language. To load the project you can use `CLion`.
 
 ### Exercises
 
-Each exercise is grouped inside its category.
-
-| Exercise      | Code                                                                   |
-|---------------|------------------------------------------------------------------------|
-| Array Leaders | [./src/exercises/array_leaders.hpp](./src/exercises/array_leaders.hpp) |
+| Exercise            | Code                                                                      |
+|---------------------|---------------------------------------------------------------------------|
+| Array Leaders       | [./src/exercises/array_leaders.hpp](./src/exercises/array_leaders.hpp)    | 
+| Trapping Rain Water | [./src/exercises/trapping_water.hpp](./src/exercises/trapping_water.hpp)  | 
