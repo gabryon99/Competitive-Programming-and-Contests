@@ -4,6 +4,9 @@
 #include <concepts>
 #include <vector>
 #include <iostream>
+#include <span>
+#include <optional>
+#include <deque>
 
 namespace cpc {
 

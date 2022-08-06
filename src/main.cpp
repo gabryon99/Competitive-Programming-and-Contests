@@ -1,11 +1,14 @@
-#include "utility/utility.hpp"
+#define DEBUG
 
-#include "exercises/array_leaders.hpp"
+#include "utility/utility.hpp"
+#include "utility/ds/fenwick_tree.hpp"
 
 auto main() -> int {
 
-    auto sol = cpc::exercises::ArrayLeaders::solve<int>({16,17,4,3,5,2});
-    cpc::assertEquality(sol, {2, 5, 17});
+    using FenwickTree = cpc::ds::FenwickTree<int>;
+    auto tree = FenwickTree::fromVector({3, 2, -1, 5, 7, -3, 2, 1});
+
+    std::cout << tree.rangeSum(2, 5);
 
     return 0;
 }
